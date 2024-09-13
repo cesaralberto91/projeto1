@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+nova branch-guilherme;    file
+=======
 Arquivo 4    file
+>>>>>>> 10b37ec3c3292de62aaedbd6ffe97e47873a30eb
     
