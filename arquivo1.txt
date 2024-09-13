@@ -1,7 +1,11 @@
 primeira linha
 segunda linha
+<<<<<<< HEAD
+Fernanda
+=======
 Jorge Luiz nada fera
 Gabriel fera d+
 Leo o_O mais fera
 Guilherme fera mais ou menos
 JotaPe
+>>>>>>> c4d891f2f171ad2e6bb3ddb857dace893ab4b61d
